@@ -1,0 +1,1345 @@
+#string:26:000
+{
+	Fiore di Fuoco[End]
+}
+
+#string:26:001
+{
+	Nevicata[End]
+}
+
+#string:26:002
+{
+	Lampoblitz[End]
+}
+
+#string:26:003
+{
+	Lampoflash[End]
+}
+
+#string:26:004
+{
+	Stella Cadente[End]
+}
+
+#string:26:005
+{
+	Martello Consunto[End]
+}
+
+#string:26:006
+{
+	Sasso[End]
+}
+
+#string:26:007
+{
+	Cappello di Pietro[End]
+}
+
+#string:26:008
+{
+	Fungo Volta[End]
+}
+
+#string:26:009
+{
+	Fungo[End]
+}
+
+#string:26:00A
+{
+	Superfungo[End]
+}
+
+#string:26:00B
+{
+	Ultrafungo[End]
+}
+
+#string:26:00C
+{
+	Fungo SOS[End]
+}
+
+#string:26:00D
+{
+	Fungo Secco[End]
+}
+
+#string:26:00E
+{
+	Fit Tonic[End]
+}
+
+#string:26:00F
+{
+	Succo Fresco[End]
+}
+
+#string:26:010
+{
+	Bacca Blu[End]
+}
+
+#string:26:011
+{
+	Bacca Rossa[End]
+}
+
+#string:26:012
+{
+	Bacca Gialla[End]
+}
+
+#string:26:013
+{
+	Bacca Bolla[End]
+}
+
+#string:26:014
+{
+	Lime[End]
+}
+
+#string:26:015
+{
+	Limone[End]
+}
+
+#string:26:016
+{
+	Sciroppo Miele[End]
+}
+
+#string:26:017
+{
+	Sciroppo Acero[End]
+}
+
+#string:26:018
+{
+	Composta[End]
+}
+
+#string:26:019
+{
+	Pagnottella[End]
+}
+
+#string:26:01A
+{
+	Mela[End]
+}
+
+#string:26:01B
+{
+	Noci Goom[End]
+}
+
+#string:26:01C
+{
+	Tartafoglia[End]
+}
+
+#string:26:01D
+{
+	Pasta Fresca[End]
+}
+
+#string:26:01E
+{
+	Frutta Secca[End]
+}
+
+#string:26:01F
+{
+	Scompianta[End]
+}
+
+#string:26:020
+{
+	Dolcina[End]
+}
+
+#string:26:021
+{
+	Uovo[End]
+}
+
+#string:26:022
+{
+	Noci di Cocco[End]
+}
+
+#string:26:023
+{
+	Melone[End]
+}
+
+#string:26:024
+{
+	Erba Puzzolente[End]
+}
+
+#string:26:025
+{
+	Patata Congelata[End]
+}
+
+#string:26:026
+{
+	Sonnolina[End]
+}
+
+#string:26:027
+{
+	Blocco POW[End]
+}
+
+#string:26:028
+{
+	Fermalogio[End]
+}
+
+#string:26:029
+{
+	Giratutto[End]
+}
+
+#string:26:02A
+{
+	Sciòsciò[End]
+}
+
+#string:26:02B
+{
+	Chissà cos'è[End]
+}
+
+#string:26:02C
+{
+	Gel Invisibile[End]
+}
+
+#string:26:02D
+{
+	Zuppa Calda[End]
+}
+
+#string:26:02E
+{
+	Torta di Mele[End]
+}
+
+#string:26:02F
+{
+	Fungo Miele[End]
+}
+
+#string:26:030
+{
+	Fungo Acero[End]
+}
+
+#string:26:031
+{
+	Fungo Reale[End]
+}
+
+#string:26:032
+{
+	Fungo Miele S[End]
+}
+
+#string:26:033
+{
+	Fungo Acero S[End]
+}
+
+#string:26:034
+{
+	Fungo Reale S[End]
+}
+
+#string:26:035
+{
+	Fungo Miele U[End]
+}
+
+#string:26:036
+{
+	Fungo Acero U[End]
+}
+
+#string:26:037
+{
+	Fungo Reale U[End]
+}
+
+#string:26:038
+{
+	Tartapasta[End]
+}
+
+#string:26:039
+{
+	Funghi Fritti[End]
+}
+
+#string:26:03A
+{
+	Funghi Caldi[End]
+}
+
+#string:26:03B
+{
+	Rollé ai Funghi[End]
+}
+
+#string:26:03C
+{
+	Torta Funghi[End]
+}
+
+#string:26:03D
+{
+	Dolce Fungo[End]
+}
+
+#string:26:03E
+{
+	Pasto Blando[End]
+}
+
+#string:26:03F
+{
+	Marblé[End]
+}
+
+#string:26:040
+{
+	Timballo[End]
+}
+
+#string:26:041
+{
+	Frullato Speciale[End]
+}
+
+#string:26:042
+{
+	Succo Salutare[End]
+}
+
+#string:26:043
+{
+	Biscotto Grande[End]
+}
+
+#string:26:044
+{
+	Torta[End]
+}
+
+#string:26:045
+{
+	Malfatto[End]
+}
+
+#string:26:046
+{
+	Tartatè[End]
+}
+
+#string:26:047
+{
+	Spaghetti[End]
+}
+
+#string:26:048
+{
+	Uovo Missile[End]
+}
+
+#string:26:049
+{
+	Uovo Fritto[End]
+}
+
+#string:26:04A
+{
+	Bonbon Miele[End]
+}
+
+#string:26:04B
+{
+	Bonbon Shock[End]
+}
+
+#string:26:04C
+{
+	Bonbon Fuoco[End]
+}
+
+#string:26:04D
+{
+	Caramella Lime[End]
+}
+
+#string:26:04E
+{
+	Bonbon Cocco[End]
+}
+
+#string:26:04F
+{
+	Caramella Limone[End]
+}
+
+#string:26:050
+{
+	Bonbon Super[End]
+}
+
+#string:26:051
+{
+	Dolciamore[End]
+}
+
+#string:26:052
+{
+	Biscotto Strano[End]
+}
+
+#string:26:053
+{
+	Patatine surgelate[End]
+}
+
+#string:26:054
+{
+	Insalata di Patate[End]
+}
+
+#string:26:055
+{
+	Torta di Noci[End]
+}
+
+#string:26:056
+{
+	Uovo Sodo[End]
+}
+
+#string:26:057
+{
+	Biscotto Yoshi[End]
+}
+
+#string:26:058
+{
+	Super Salto[End]
+}
+
+#string:26:059
+{
+	Mega Salto[End]
+}
+
+#string:26:05A
+{
+	Salto Caricato[End]
+}
+
+#string:26:05B
+{
+	S Salto Caricato[End]
+}
+
+#string:26:05C
+{
+	Effetto Sonno[End]
+}
+
+#string:26:05D
+{
+	Paralizza Salto[End]
+}
+
+#string:26:05E
+{
+	Multisalto[End]
+}
+
+#string:26:05F
+{
+	Effetto Mini[End]
+}
+
+#string:26:060
+{
+	Paralizza Salto D[End]
+}
+
+#string:26:061
+{
+	Salto Turbine[End]
+}
+
+#string:26:062
+{
+	Mazzapicchio[End]
+}
+
+#string:26:063
+{
+	Mega Colpo[End]
+}
+
+#string:26:064
+{
+	Colpo caricato[End]
+}
+
+#string:26:065
+{
+	S Colpo Caricato[End]
+}
+
+#string:26:066
+{
+	Lanciamazza[End]
+}
+
+#string:26:067
+{
+	NON IN GIOCO[End] 
+}
+
+#string:26:068
+{
+	Vortice[End]
+}
+
+#string:26:069
+{
+	Perfora Difesa[End]
+}
+
+#string:26:06A
+{
+	Sismattacco[End]
+}
+
+#string:26:06B
+{
+	Super Sisma[End]
+}
+
+#string:26:06C
+{
+	Mega Sisma[End]
+}
+
+#string:26:06D
+{
+	Oggetto x 2[End]
+}
+
+#string:26:06E
+{
+	Oggetto x 3[End]
+}
+
+#string:26:06F
+{
+	Gruppo Focus[End]
+}
+
+#string:26:070
+{
+	Cambio Rapido[End]
+}
+
+#string:26:071
+{
+	Più PV[End]
+}
+
+#string:26:072
+{
+	Più PF[End]
+}
+
+#string:26:073
+{
+	Potenza +[End]
+}
+
+#string:26:074
+{
+	Difesa +[End]
+}
+
+#string:26:075
+{
+	In Guardia[End]
+}
+
+#string:26:076
+{
+	Irruenza[End]
+}
+
+#string:26:077
+{
+	Tutti - 1[End]
+}
+
+#string:26:078
+{
+	Forza x vita[End]
+}
+
+#string:26:079
+{
+	Bellavita[End]
+}
+
+#string:26:07A
+{
+	Autofiore[End]
+}
+
+#string:26:07B
+{
+	Meno PF[End]
+}
+
+#string:26:07C
+{
+	Multicuori[End]
+}
+
+#string:26:07D
+{
+	Multifiori[End]
+}
+
+#string:26:07E
+{
+	Meditazione[End]
+}
+
+#string:26:07F
+{
+	Guardiaspina[End]
+}
+
+#string:26:080
+{
+	Mastro Schivata[End]
+}
+
+#string:26:081
+{
+	Totofortuna[End]
+}
+
+#string:26:082
+{
+	Gigafortuna[End]
+}
+
+#string:26:083
+{
+	Totorischio[End]
+}
+
+#string:26:084
+{
+	Adrenalina[End]
+}
+
+#string:26:085
+{
+	Mezzodanno[End]
+}
+
+#string:26:086
+{
+	Carica SOS[End]
+}
+
+#string:26:087
+{
+	Intraprendenza[End]
+}
+
+#string:26:088
+{
+	Tocco Shock[End]
+}
+
+#string:26:089
+{
+	Piroetta[End]
+}
+
+#string:26:08A
+{
+	Colpo Confusione[End]
+}
+
+#string:26:08B
+{
+	Scatto Piroetta[End]
+}
+
+#string:26:08C
+{
+	Granforma[End]
+}
+
+#string:26:08D
+{
+	Imitazione A[End]
+}
+
+#string:26:08E
+{
+	Imitazione D[End]
+}
+
+#string:26:08F
+{
+	Imitazione B[End]
+}
+
+#string:26:090
+{
+	Imitazione E[End]
+}
+
+#string:26:091
+{
+	Imitazione C[End]
+}
+
+#string:26:092
+{
+	Imitazione F[End]
+}
+
+#string:26:093
+{
+	Roulette[End]
+}
+
+#string:26:094
+{
+	Tartapasso[End]
+}
+
+#string:26:095
+{
+	Glaciazione[End]
+}
+
+#string:26:096
+{
+	Ricompensare[End]
+}
+
+#string:26:097
+{
+	Scudo di Fuoco[End]
+}
+
+#string:26:098
+{
+	Si Calmi[End]
+}
+
+#string:26:099
+{
+	Elettroshock[End]
+}
+
+#string:26:09A
+{
+	Multimonete[End]
+}
+
+#string:26:09B
+{
+	NON IN GIOCO[End]
+}
+
+#string:26:09C
+{
+	Paga in Fuga[End]
+}
+
+#string:26:09D
+{
+	Yo-Yo Monete[End]
+}
+
+#string:26:09E
+{
+	Spione[End]
+}
+
+#string:26:09F
+{
+	Scan PV[End]
+}
+
+#string:26:0A0
+{
+	Salto[End]
+}
+
+#string:26:0A1
+{
+	Schianto a Terra[End]
+}
+
+#string:26:0A2
+{
+	Salto Tornado[End]
+}
+
+#string:26:0A3
+{
+	Martello[End]
+}
+
+#string:26:0A4
+{
+	Super Martello[End]
+}
+
+#string:26:0A5
+{
+	Ultra Martello[End]
+}
+
+#string:26:0A6
+{
+	Buona Stella[End]
+}
+
+#string:26:0A7
+{
+	Chiave Fortezza[End]
+}
+
+#string:26:0A8
+{
+	Chiave Rovine[End]
+}
+
+#string:26:0A9
+{
+	Chiave Castello[End]
+}
+
+#string:26:0AA
+{
+	Chiave Tempio[End]
+}
+
+#string:26:0AB
+{
+	Chiave Castello[End]
+}
+
+#string:26:0AC
+{
+	Chiave Castello[End]
+}
+
+#string:26:0AD
+{
+	Chiave Strana[End]
+}
+
+#string:26:0AE
+{
+	Peluche[End]
+}
+
+#string:26:0AF
+{
+	Tartaguscio[End]
+}
+
+#string:26:0B0
+{
+	Pietra Magica[End]
+}
+
+#string:26:0B1
+{
+	Reliquia[End]
+}
+
+#string:26:0B2
+{
+	NON IN GIOCO[End]
+}
+
+#string:26:0B3
+{
+	Pietra Lunare[End]
+}
+
+#string:26:0B4
+{
+	Pietra Piramidale[End]
+}
+
+#string:26:0B5
+{
+	Pietra Diamante[End]
+}
+
+#string:26:0B6
+{
+	Vinile[End]
+}
+
+#string:26:0B7
+{
+	Peso[End]
+}
+
+#string:26:0B8
+{
+	Fantasma Ritratto[End]
+}
+
+#string:26:0B9
+{
+	Chiave Mistica[End]
+}
+
+#string:26:0BA
+{
+	Chiave Magazzino[End]
+}
+
+#string:26:0BB
+{
+	Treno Giocattolo[End]
+}
+
+#string:26:0BC
+{
+	Padella[End]
+}
+
+#string:26:0BD
+{
+	Dizionario[End]
+}
+
+#string:26:0BE
+{
+	Pagina Misteriosa[End]
+}
+
+#string:26:0BF
+{
+	Busta[End]
+}
+
+#string:26:0C0
+{
+	Germoglio Magico[End]
+}
+
+#string:26:0C1
+{
+	Germoglio Magico[End]
+}
+
+#string:26:0C2
+{
+	Germoglio Magico[End]
+}
+
+#string:26:0C3
+{
+	Germoglio Magico[End]
+}
+
+#string:26:0C4
+{
+	Bacca di Cristallo[End]
+}
+
+#string:26:0C5
+{
+	Pietra d'Acqua[End]
+}
+
+#string:26:0C6
+{
+	Fagiolo Magico[End]
+}
+
+#string:26:0C7
+{
+	Terra Fertile[End]
+}
+
+#string:26:0C8
+{
+	Acqua Miracolosa[End]
+}
+
+#string:26:0C9
+{
+	Sfera  di Cristallo[End]
+}
+
+#string:26:0CA
+{
+	Calcolatrice[End]
+}
+
+#string:26:0CB
+{
+	Ricettario[End]
+}
+
+#string:26:0CC
+{
+	Corvo di Giada[End]
+}
+
+#string:26:0CD
+{
+	Vaso Vulcano[End]
+}
+
+#string:26:0CE
+{
+	Chiave Magazzino[End]
+}
+
+#string:26:0CF
+{
+	Secchio[End]
+}
+
+#string:26:0D0
+{
+	Sciarpa Favolosa[End]
+}
+
+#string:26:0D1
+{
+	Pietra Stellare[End]
+}
+
+#string:26:0D2
+{
+	Chiave Rossa[End]
+}
+
+#string:26:0D3
+{
+	Chiave Blu[End]
+}
+
+#string:26:0D4
+{
+	Ombrello Ingannatore[End]
+}
+
+#string:26:0D5
+{
+	Chiave Prigione[End]
+}
+
+#string:26:0D6
+{
+	Canzone[End]
+}
+
+#string:26:0D7
+{
+	Sparito[End]
+}
+
+#string:26:0D8
+{
+	Zucchero[End]
+}
+
+#string:26:0D9
+{
+	Sale[End]
+}
+
+#string:26:0DA
+{
+	Uovo[End]
+}
+
+#string:26:0DB
+{
+	Crema[End]
+}
+
+#string:26:0DC
+{
+	Fragola[End]
+}
+
+#string:26:0DD
+{
+	Burro[End]
+}
+
+#string:26:0DE
+{
+	Detergente[End]
+}
+
+#string:26:0DF
+{
+	Acqua[End]
+}
+
+#string:26:0E0
+{
+	Farina[End]
+}
+
+#string:26:0E1
+{
+	Latte[End]
+}
+
+#string:26:0E2
+{
+	Tessera di Primo Grado[End]
+}
+
+#string:26:0E3
+{
+	Tessera di Secondo Grado[End]
+}
+
+#string:26:0E4
+{
+	Tessera di Terzo Grado[End]
+}
+
+#string:26:0E5
+{
+	Tessera di Quarto Grado[End]
+}
+
+#string:26:0E6
+{
+	Diploma[End]
+}
+
+#string:26:0E7
+{
+	Ultragemma[End]
+}
+
+#string:26:0E8
+{
+	Tessera Argento[End]
+}
+
+#string:26:0E9
+{
+	Tessera Oro[End]
+}
+
+#string:26:0EA
+{
+	Lettera[End]
+}
+
+#string:26:0EB
+{
+	Lettera[End]
+}
+
+#string:26:0EC
+{
+	Lettera[End]
+}
+
+#string:26:0ED
+{
+	Lettera[End]
+}
+
+#string:26:0EE
+{
+	Lettera[End]
+}
+
+#string:26:0EF
+{
+	Lettera[End]
+}
+
+#string:26:0F0
+{
+	Lettera[End]
+}
+
+#string:26:0F1
+{
+	Lettera[End]
+}
+
+#string:26:0F2
+{
+	Lettera[End]
+}
+
+#string:26:0F3
+{
+	Lettera[End]
+}
+
+#string:26:0F4
+{
+	Lettera[End]
+}
+
+#string:26:0F5
+{
+	Lettera[End]
+}
+
+#string:26:0F6
+{
+	Lettera[End]
+}
+
+#string:26:0F7
+{
+	Lettera[End]
+}
+
+#string:26:0F8
+{
+	Lettera[End]
+}
+
+#string:26:0F9
+{
+	Lettera[End]
+}
+
+#string:26:0FA
+{
+	Lettera[End]
+}
+
+#string:26:0FB
+{
+	Lettera[End]
+}
+
+#string:26:0FC
+{
+	Lettera[End]
+}
+
+#string:26:0FD
+{
+	Lettera[End]
+}
+
+#string:26:0FE
+{
+	Lettera[End]
+}
+
+#string:26:0FF
+{
+	Lettera[End]
+}
+
+#string:26:100
+{
+	Lettera[End]
+}
+
+#string:26:101
+{
+	Lettera[End]
+}
+
+#string:26:102
+{
+	Lettera[End]
+}
+
+#string:26:103
+{
+	Leggende Koopa[End]
+}
+
+#string:26:104
+{
+	Cassetta[End]
+}
+
+#string:26:105
+{
+	Autografo[End]
+}
+
+#string:26:106
+{
+	Portafoglio Vuoto[End]
+}
+
+#string:26:107
+{
+	Autografo[End]
+}
+
+#string:26:108
+{
+	Vecchia Foto[End]
+}
+
+#string:26:109
+{
+	Occhiali[End]
+}
+
+#string:26:10A
+{
+	Pacchetto[End]
+}
+
+#string:26:10B
+{
+	Vaso Rosso[End]
+}
+
+#string:26:10C
+{
+	Scheggiastella[End]
+}
+

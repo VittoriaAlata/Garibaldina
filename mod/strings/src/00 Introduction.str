@@ -1,0 +1,849 @@
+#string:00:000
+{
+	a[End]
+}
+
+#string:00:001
+{
+	[CenterX 159]Oggi...[End]
+}
+
+#string:00:002
+{
+	[CenterX 159]vi racconterò la storia degli[BR]
+	"Spiriti Stellari"[End]
+}
+
+#string:00:003
+{
+	[CenterX 159]Tanto tempo fa dietro il cielo,[End]
+}
+
+#string:00:004
+{
+	[CenterX 159]sopra le nuvole,[End]
+}
+
+#string:00:005
+{
+	[CenterX 159]si diceva ci fosse un[BR]
+	paradiso dove vivevano le stelle.[End]
+}
+
+#string:00:006
+{
+	[CenterX 159]Nel santuario dello Star Haven[End]
+}
+
+#string:00:007
+{
+	[CenterX 159]viene custodito il favoloso[BR]
+	Scettro Stella,[End]
+}
+
+#string:00:008
+{
+	[CenterX 159]tesoro che può realizzare[BR]
+	i sogni.[End]
+}
+
+#string:00:009
+{
+	[CenterX 159]Usando il leggendario Scettro,[BR]
+	i sette Spiriti Stellari[End]
+}
+
+#string:00:00A
+{
+	[CenterX 159]hanno portato la pace nel mondo,[End]
+}
+
+#string:00:00B
+{
+	[CenterX 159]da molto tempo ormai...[End]
+}
+
+#string:00:00C
+{
+	[CenterX 159]Inoltre...[End]
+}
+
+#string:00:00D
+{
+	[CenterX 159]Ehi...! Cos' è quel...?[End]
+}
+
+#string:00:00E
+{
+	[CenterX 159]Chi ha incollato quella roba[BR]
+	nel racconto?[End]
+}
+
+#string:00:00F
+{
+	[CenterX 159]Ha ha ha! Yeah! Ce l'ho fatta![End]
+}
+
+#string:00:010
+{
+	[CenterX 159][Wave]Gwa ha ha ha ha ha ha ha!![BR]
+	[/fx][End]
+}
+
+#string:00:011
+{
+	[CenterX 159]Ora potrò finalmente battere[BR]
+	Mario,[End]
+}
+
+#string:00:012
+{
+	[CenterX 159]Lo Scettro Stella è mio[End]
+}
+
+#string:00:013
+{
+	[CenterX 159]Vai, Kameka![End]
+}
+
+#string:00:014
+{
+	[CenterX 159][End]
+}
+
+#string:00:015
+{
+	[CenterX 159]No, no, non puoi farlo![End]
+}
+
+#string:00:016
+{
+	[CenterX 159]Finalmente! Ora proviamolo![End]
+}
+
+#string:00:017
+{
+	[CenterX 159]Fermati Bowser! Ora basta![End]
+}
+
+#string:00:018
+{
+	[CenterX 159]Stai cambiando la storia![End]
+}
+
+#string:00:019
+{
+	[CenterX 159]Bwahaha! Ce la abbiamo fatta![End]
+}
+
+#string:00:01A
+{
+	[CenterX 159]Nessuno potrà più fermarci![End]
+}
+
+#string:00:01B
+{
+	[CenterX 159]Ora non sarà possibile[BR]
+	esaudire i desideri delle persone[End]
+}
+
+#string:00:01C
+{
+	[CenterX 159]...e i sogni non saranno[BR]
+	reali.[BR]
+	[End]
+}
+
+#string:00:01D
+{
+	[CenterX 159]Chi salverà i sogni?[End]
+}
+
+#string:00:01E
+{
+	[Style Right]
+	C'è posta![Wait][End]
+}
+
+#string:00:01F
+{
+	[Style Right]
+	Mario![BR]
+	[Pause 10]C'è una lettera dalla Principessa[BR]
+	Peach![Wait][End]
+}
+
+#string:00:020
+{
+	[Style Right]
+	Te la leggo, ok?[Wait][End]
+}
+
+#string:00:021
+{
+	[Style Right]
+	Perfetto, vediamo...[Wait][End]
+}
+
+#string:00:022
+{
+	[Image index=0 pos=85,97 hasBorder=1 alpha=255 fadeAmount=15][Yield][End]
+}
+
+#string:00:023
+{
+	[Style Narrate]
+	[Pause 4][InputOn]Mario, Luigi sto dando una[BR]
+	grande festa![BR]
+	[Pause 10]sarei onorata di avervi[BR]
+	come ospiti d'onore.[BR]
+	[Wait][BR]
+	[Next]
+	[Down 5]Molti amici hanno viaggiato[BR]
+	[Down 5]molto per incontrarvi.[BR]
+	[Wait][BR]
+	[Up 10][Next]
+	Ci saranno succulenti dolci[BR]
+	e molto divertimento.[BR]
+	Spero di vedervi![BR]
+	[Pause 15][Right 110]Vivamente, Peach[BR]
+	[Wait][Yield][End]
+}
+
+#string:00:024
+{
+	[Style Right]
+	Che magnifico castello![BR]
+	Non c'ero mai stato.[BR]
+	[Pause 10]Semba che siano già arrivati[BR]
+	gli ospiti.[Wait][End]
+}
+
+#string:00:025
+{
+	[Style Right]
+	Ciao Mario, perchè non andate a[BR]
+	vedere Peach?[BR]
+	[Pause 10]Andrò dopo. Per ora mi[BR]
+	godo la festa.[BR]
+	[Wait][Next]
+	Se premerai [A][BR]
+	sulla porta, si aprirà.[Wait][End]
+}
+
+#string:00:026
+{
+	[Style Right]
+	Mario! Che ci fai qui?[BR]
+	[Wait][Next]
+	La principessa ti aspetta![BR]
+	Se la vedi salutamela![Wait][End]
+}
+
+#string:00:027
+{
+	[Style Right]
+	Ah! Il famoso Mario! [BR]
+	[Pause 10]Hai incontrato Frost T.?[BR]
+	[Wait][Next]
+	Lui viene da molto lontano,[BR]
+	da Shiver, una regione piena di[BR]
+	campi innevati.[Wait][End]
+}
+
+#string:00:028
+{
+	[Style Right]
+	La Principessa Peach è[BR]
+	veramente graziosa e bella[BR]
+	come dicono. [BR]
+	[Pause 10]Veniamo da Shiver per lei.[BR]
+	[Wait][Next]
+	Mario, vieni a trovarci[BR]
+	un giorno a Shiver![Wait][End]
+}
+
+#string:00:029
+{
+	[Style Right]
+	Mario, ti trovo bene![BR]
+	[Pause 15]Goditi la festa, ok?[Wait][End]
+}
+
+#string:00:02A
+{
+	[Style Right]
+	Oh! Non ho mai visto tanti[BR]
+	ospiti provenienti da parti[BR]
+	diverse del mondo![BR]
+	[Wait][Next]
+	Probabilmente sentirai[BR]
+	storie sui luoghi che hai[BR]
+	mai stato, eh?[Wait][End]
+}
+
+#string:00:02B
+{
+	[Style Right]
+	Hey...urh...Mario![BR]
+	[Pause 10]Spero tu abbia fame![BR]
+	C'è così tanto cibo qui![BR]
+	[Wait][Next]
+	Ne ho già mangiato troppo...[BR]
+	Prendo fiato.[BR]
+	[Wait][Next]
+	Ok, [Pause 5]ho preso fiato.[BR]
+	Ho ancora fame, vado...[BR]
+	al tavolo dei buffet. [Wait][End]
+}
+
+#string:00:02C
+{
+	[Style Right]
+	Credo che la principessa ti[BR]
+	stia aspettando da[BR]
+	questa mattina, sbrigati.[BR]
+	[Wait][Next]
+	Lei è in ansia.[BR]
+	[Pause 10]hee hee hee... [Pause 5]Che bello...[Wait][End]
+}
+
+#string:00:02D
+{
+	[Style Right]
+	Oh! Ciao, Mario![BR]
+	[Pause 10]L'ultima festa era[BR]
+	stata bellissima[BR]
+	[Wait][Next]
+	Oh! comunque,[BR]
+	[Pause 10]La principessa Peach ti[BR]
+	aspetta.[Wait][End]
+}
+
+#string:00:02E
+{
+	[Style Right]
+	Benvenuto al castllo![Wait][End]
+}
+
+#string:00:02F
+{
+	[Style Right]
+	La principessa è andata[BR]
+	in camera proprio poco fa.[BR]
+	[Wait][Next]
+	Deve essere stanca.[Wait][End]
+}
+
+#string:00:030
+{
+	[Style Right]
+	Wow...[BR]
+	[Pause 10]Questo castello è[BR]
+	fantastico, non credi?[BR]
+	[Wait][Next]
+	Magari vivere qui...[BR]
+	per sempre![Wait][End]
+}
+
+#string:00:031
+{
+	[Style Right]
+	Oh, benvenuto, Mario![BR]
+	[Pause 10]Sono Tayce T.[BR]
+	[Pause 10]Adoro cucinare![HEART][BR]
+	[Wait][Next]
+	Forse non lo sai, ma io[BR]
+	ho cucinato tutto il cibo[BR]
+	della festa. Spero che[BR]
+	ti piaccia![HEART][BR]
+	[Wait][Next]
+	Ma... aspetta...[BR]
+	[Pause 10]sono esausto e[BR]
+	non mi rimangono più ingredienti![BR]
+	[Wait][Next]
+	Ora dovrò andarli a comprare![Wait][End]
+}
+
+#string:00:032
+{
+	[Style Right]
+	Sono un'aspirante cuoco.[BR]
+	[Wait][Next]
+	Spero che un giorno diventerò[BR]
+	bravo a cucinare come[BR]
+	Tayce T.[BR]
+	[Wait][Next]
+	Sai cucinare, Mario?[BR]
+	Ti potrei insegnare![BR]
+	[Pause 10]Sai... penso che cucinare[BR]
+	sia bellissimo![Wait][End]
+}
+
+#string:00:033
+{
+	[Style Right]
+	Mastro Mario![BR]
+	[Pause 10]Sono il cancelliere del[BR]
+	castello.[BR]
+	[Wait][Next]
+	Mi fa piacere averla.[BR]
+	Quando siete qui il regno è[BR]
+	più al sicuro.[BR]
+	[Pause 10]Il futuro sembra splendere![Wait][End]
+}
+
+#string:00:034
+{
+	[Style Right]
+	Vengo da una piccola città, da[BR]
+	Dry Dry Outpost.[BR]
+	[Wait][Next]
+	Questo castello è eccezzionale,[BR]
+	no? Così bello e[BR]
+	abitato...[BR]
+	[Wait][Next]
+	Sono riuscito a parlare con[BR]
+	la bellissima Peach.[BR]
+	[Wait][Next]
+	Che onore! Quando tornerò a[BR]
+	Dry Dry Outpost, racconterò[BR]
+	di questa esperienza.[Wait][End]
+}
+
+#string:00:035
+{
+	[Style Right]
+	Sono un Nomadimouse, e vengo[BR]
+	da Dry Dry Desert.[BR]
+	[Wait][Next]
+	Tutti qui sono veramente[BR]
+	gentili.[BR]
+	[Pause 10]Forse un giorno[BR]
+	verrò ad abitare qui.[Wait][End]
+}
+
+#string:00:036
+{
+	[Style Right]
+	Sono io, il sindaco della[BR]
+	bella Shiver City.[BR]
+	Sai?[BR]
+	[Wait][Next]
+	Oddio, guarda che ore sono![BR]
+	[Pause 10]Devo andare a fare shopping[BR]
+	con Frost T.![Wait][End]
+}
+
+#string:00:037
+{
+	[Style Right]
+	Vengo dal Villaggio Koopa, è[BR]
+	qui vicino alla strada.[BR]
+	[Wait][Next]
+	Ohhh... E ho avuto l'onore[BR]
+	di parlare con Peach![BR]
+	[Pause 10]Che splendida donna![HEART][Wait][End]
+}
+
+#string:00:038
+{
+	[Style Right]
+	Bene... [Pause 5]Oggi, abbiamo ospiti[BR]
+	[Pause 10]da Dry Dry Outpost, dalla[BR]
+	Shiver, e dal Villaggio dei Koopa[BR]
+	[Wait][Next]
+	Ci sono così tante persone,[BR]
+	non riesco a controllarli tutti.[BR]
+	[Wait][Next]
+	E da dove vieni tu?[BR]
+	[Pause 20]Oh... [Pause 10]Sei Mario!?[BR]
+	[Pause 10]Io.. [Pause 5]Colpa mia! Scusa![Wait][End]
+}
+
+#string:00:039
+{
+	[Style Right]
+	Peach ha una[BR]
+	cotta per qualcuno?[BR]
+	[Wait][Next]
+	Lei è una donna amabile...[BR]
+	Chiunque sia deve essere[BR]
+	fortunato...[Wait][End]
+}
+
+#string:00:03A
+{
+	[Style Right]
+	Sai di un posto chiamato[BR]
+	Colle Stella?[BR]
+	[Pause 10]È vicino al castello. È un[BR]
+	posto romantico...[BR]
+	[Wait][Next]
+	È un buon posto[BR]
+	dove invitarla.[BR]
+	[Pause 10]Forse dovresti, lo sai,[BR]
+	chiederle di andarci...[Wait][End]
+}
+
+#string:00:03B
+{
+	[Style Right]
+	Ciao... Mario[BR]
+	[Pause 10]Sono un'appassionata di fashion[BR]
+	e posso dire che...[BR]
+	[Wait][Next]
+	...il tuo outfit è favoloso.[BR]
+	[Pause 10]Ti calza a pennello![HEART][Wait][End]
+}
+
+#string:00:03C
+{
+	[Style Right]
+	Io... [Pause 5]sono un apprendista.[BR]
+	[Wait][Next]
+	Tanti ospiti... Il mio cuore[BR]
+	battere come un taburo,[BR]
+	da questa mattina...[BR]
+	[Wait][Next]
+	[PrintRising]Thump [Pause 3]thump [Pause 3]thump [Pause 3]thump[/fx][Pause 3]...[Wait][End]
+}
+
+#string:00:03D
+{
+	[Style Right]
+	Questa è la camera di Peach,[BR]
+	[Pause 20]mi dispiace ma lei non è qui[BR]
+	al momento.[Wait][End]
+}
+
+#string:00:03E
+{
+	[Style Right]
+	Ehh?[BR]
+	[Pause 20]Oh no! Assolutamente no![BR]
+	[Wait][Next]
+	Non credo sia corretto [BR]
+	entrare nella stanza senza prima[BR]
+	averlo chiesto, Mario![Wait][End]
+}
+
+#string:00:03F
+{
+	[Style Right]
+	Ho detto no, Ora smamma.[BR]
+	[Pause 10]Non puoi entrare qui[BR]
+	dentro![Wait][End]
+}
+
+#string:00:040
+{
+	[Style Right]
+	Finiscila ho detto![BR]
+	[Pause 15]Ho capito...[BR]
+	[Wait][Next]
+	Entra, senza farti[BR]
+	vedere e non toccare nulla![Wait][End]
+}
+
+#string:00:041
+{
+	[Style Right]
+	Ti invidio, Mario...[Wait][End]
+}
+
+#string:00:042
+{
+	[Style Right]
+	Com'era?[BR]
+	[Pause 10]A dire il vero, non ci sono[BR]
+	mai entrato...[Wait][End]
+}
+
+#string:00:043
+{
+	[Style Inspect]
+	Un bel camino![BR]
+	[Pause 10]Un fuoco accogliente![Wait][End]
+}
+
+#string:00:044
+{
+	[Style Inspect]
+	I suoi vestiti sono belli ma[BR]
+	sono tutti uguali![BR]
+	[Pause 10]Deve essere uno stile che le[BR]
+	piace.[Wait][End]
+}
+
+#string:00:045
+{
+	[Style Inspect]
+	Ci sono dei trucchi.[BR]
+	[Pause 10]Servirebbero anche a Mario.[Wait][End]
+}
+
+#string:00:046
+{
+	[Style Inspect]
+	Una foto di Mario![Wait][End]
+}
+
+#string:00:047
+{
+	[Style Inspect]
+	Che letto soffice.[BR]
+	[Pause 10]Sembra fatto per fare[BR]
+	dei sogni d'oro.[Wait][End]
+}
+
+#string:00:048
+{
+	[Style Inspect]
+	Un vaso pieno di fiori.[BR]
+	[Pause 10]Che buon profumo.[Wait][End]
+}
+
+#string:00:049
+{
+	[Style Right]
+	È un posto così tranquillo[BR]
+	senza ospiti.[BR]
+	[Pause 10]Ahh... che bello.[Wait][End]
+}
+
+#string:00:04A
+{
+	[Style Right]
+	La principessa sta entrando[BR]
+	nelle sue camere.[Wait][End]
+}
+
+#string:00:04B
+{
+	[Style Right]
+	Oh, Mario![BR]
+	[Pause 10]Sei venuto alla festa per[BR]
+	vedermi! Che carino![BR]
+	[Pause 20]Grazie![HEART][Wait][End]
+}
+
+#string:00:04C
+{
+	[Style Right]
+	Mi stavo riposando un'pò.[BR]
+	Con tutti questi ospiti non sò[BR]
+	più cosa fare![BR]
+	[Wait][Next]
+	Nessuno ci disturberà qui.[BR]
+	[Pause 10]Ci rilassiamo e parliamo, solo[BR]
+	noi due?[Wait][End]
+}
+
+#string:00:04D
+{
+	[Style Right]
+	Oggi è una bella giornata, sono[BR]
+	sicura che c'è un bel paesaggio[BR]
+	qui fuori...[BR]
+	[Pause 10]Mi accompagneresti, Mario?[Wait][End]
+}
+
+#string:00:04E
+{
+	[Style Right]
+	Oh! Tutto ok, Mario?[BR]
+	[Pause 10]Cosa è stato?[Wait][End]
+}
+
+#string:00:04F
+{
+	[Style Right]
+	Oh! Mario...[BR]
+	[Pause 10]È ancora giorno, vero?[BR]
+	[Pause 10]... Ma si vedono le stelle fuori![Wait][End]
+}
+
+#string:00:050
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwaa ha ha ha ha ha![BR]
+	[/fx][Pause 5]Da quanto tempo, principessa[BR]
+	Peach![Wait][End]
+}
+
+#string:00:051
+{
+	[Style Right]
+	... Bowser![BR]
+	[Pause 10]Ma non può essere![BR]
+	Sei stato tu a provocare[BR]
+	quella scossa, non è vero![BR]
+	[Wait][Next]
+	Cosa hai fatto?[Wait][End]
+}
+
+#string:00:052
+{
+	[Style Right]
+	[Voice Bowser][Down 8][PrintRising][Wave][Size 32]Gwa ha ha ha![BR]
+	[SizeReset][/PrintRising][/Wave][Wait][BR]
+	[Scroll 3][Up 12]Si, ero io! Ho sollevato il[BR]
+	castello fino alle nuvole![BR]
+	Ed è sopra il mio castello ora![BR]
+	[Pause 10]Non te lo aspettavi, huh?[BR]
+	[Wait][Next]
+	Il castello è sotto il mio[BR]
+	controllo, Scettro![BR]
+	[Pause 10]Ora mi obbedirai![Wait][End]
+}
+
+#string:00:053
+{
+	[Style Right]
+	[Voice Bowser]Huh!? Cosa?[BR]
+	[Pause 10]È...È...Mario! Che sorpresa![BR]
+	[Wait][Next]
+	Ha! Lo sapevo! Aspettavo da[BR]
+	molto questo momento.[BR]
+	[Pause 10]Sei più fastidioso che mai.[BR]
+	[Wait][Next]
+	Sfortunatamente non c'è nulla[BR]
+	che potrai fare questa volta.[Wait][End]
+}
+
+#string:00:054
+{
+	[Style Right]
+	Non hai imparato la lezione.[BR]
+	Eh, Bowser?[BR]
+	[Wait][Next]
+	Non sconfiggerai mai Mario![BR]
+	[Pause 10]Perchè non ti arrendi?[Wait][End]
+}
+
+#string:00:055
+{
+	[Style Right]
+	[Voice Bowser]Certo, certo, non ci sono[BR]
+	riuscito in passato...[BR]
+	Ma questa volta è diversa![BR]
+	[Wait][Next]
+	[PrintRising]Questa volta vincerò![Wait][End]
+}
+
+#string:00:056
+{
+	[Style Right]
+	[Voice Bowser]Ok, Re Koopa![BR]
+	[Pause 10]Andiamo![Wait][End]
+}
+
+#string:00:057
+{
+	[Style Right]
+	Mario, [Pause 5]puoi farcela![Wait][End]
+}
+
+#string:00:058
+{
+	[Style Right]
+	[Voice Bowser]Guarda il vecchio Mario combatte.[BR]
+	[Pause 10]Sei una spina nel fianco.[BR]
+	[Wait][Next]
+	Ma oggi, i tuoi attacchi non mi[BR]
+	sconfiggeranno![Wait][End]
+}
+
+#string:00:059
+{
+	[Style Right]
+	[Voice Bowser]Guarda qui![BR]
+	[Pause 5]Guarda cosa ho rubato dallo[BR]
+	Star Haven! Lo [Color 0x20]Scettro Stella[Color 0x0A]![BR]
+	[Wait][Next]
+	Questo capolavoro ha il potere[BR]
+	di esaudire qualsiasi desiderio[BR]
+	al mondo![BR]
+	[Wait][Next]
+	E quando uso lo Scettro per[BR]
+	aumentare la mia potenza[BR]
+	non puoi battermi![Wait][End]
+}
+
+#string:00:05A
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwa ha ha ha ha ha![BR]
+	[/fx]Come ti sembra, Mario?![Wait][End]
+}
+
+#string:00:05B
+{
+	[Style Right]
+	[Voice Bowser][PrintRising]Gwa ha ha ha ha ha![BR]
+	[/fx][Pause 5]È tutto quello sai fare? Povero![BR]
+	Faresti meglio a impegnarti,[BR]
+	perchè non mi hai fatto niente![Wait][End]
+}
+
+#string:00:05C
+{
+	[Style Right]
+	[Voice Bowser]Ha! Come pensavo, neanche Mario[BR]
+	riesce a battermi ormai.[BR]
+	[Wait][Next]
+	È inutile continare a prenderci[BR]
+	in giro, Mario.[BR]
+	[Pause 10]Finiamola qui![BR]
+	[Wait][Next]
+	Sei pronto Mario?[BR]
+	[PrintRising]Buonanotte![Wait][End]
+}
+
+#string:00:05D
+{
+	[Style Right]
+	[PrintRising]Oh no! Mario! Alzati![Wait][End]
+}
+
+#string:00:05E
+{
+	[Style Right]
+	[Voice Bowser]Si! Oh, si! Finalmente![BR]
+	[Wait][Next]
+	Ci sono riuscito! Ho battuto[BR]
+	Mario! Si!![Wait][End]
+}
+
+#string:00:05F
+{
+	[Style Right]
+	Congratulazioni per la vittoria![BR]
+	Vostra Malvagità![BR]
+	[Pause 5]Ecco perchè sei il Re![Wait][End]
+}
+
+#string:00:060
+{
+	[Style Right]
+	[Voice Bowser]Fino a quando avrò lo Scettro,[BR]
+	tutti dovranno obbedirmi![BR]
+	[Pause 10]Nessuno mi fermerà![Wait][End]
+}
+
+#string:00:061
+{
+	[Style Right]
+	[Voice Bowser]Bene, bene, bene...[BR]
+	[Pause 10]Ora posso sbarazzarmi di Mario,[BR]
+	nessuno potrà mai ostacolarmi[BR]
+	da ora in poi.[Wait][End]
+}
+
+#string:00:062
+{
+	[Style Right]
+	[PrintRising]Oh, no! Mario![Wait][End]
+}
+
